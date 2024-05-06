@@ -5,3 +5,12 @@ langchain_core
 langchain 
 langgraph 
 streamlit
+langchain-nomic
+tiktoken
+langchainhub
+chromadb
+tavily-python
+BeautifulSoup4
+gpt4all
+pypdf
+PyPDF2
